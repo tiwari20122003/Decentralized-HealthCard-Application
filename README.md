@@ -1,4 +1,5 @@
 **Empower Your Health Journey: The Decentralized HealthCard App**
+
 This repository unlocks the future of healthcare with our innovative Decentralized HealthCard Application (DApp)! Built with cutting-edge technologies like Infura, HTML, CSS, and JavaScript, this DApp puts you in control of your medical records.
 
 **Unchain Your Data:**
@@ -32,6 +33,7 @@ Connect with Confidence: Leverage Infura and web3.js to establish a secure conne
 **Remix IDE:** A powerful tool for developing and deploying smart contracts (optional).
 
 **Join the Decentralized Healthcare Revolution!**
+
 This repository provides everything you need to get started with our groundbreaking Decentralized HealthCard Application. Take control of your medical data and unlock a new era of healthcare empowerment.
 
 **DEMO:-**
